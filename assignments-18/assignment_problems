@@ -1,0 +1,12 @@
+Javascript Assignment -
+
+Generators
+
+1. What is the difference between a generator and a function?
+2. What is the syntax of a generator?
+3. Are function generators iterable in JavaScript?
+4. Create a generator for multiplying?
+
+
+5. Print an infinite series of natural numbers using a generator.
+6. Create a generator that can throw an exception.
