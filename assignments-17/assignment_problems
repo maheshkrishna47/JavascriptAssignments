@@ -1,0 +1,12 @@
+Javascript Assignment - Iterators
+
+1. Create a function to iterate over the following list [“John”,
+“Rohn”, “Danny”, “James”]
+2. Iterate over all the characters of the word “iNeuron”.
+3. Create a functional iterator, with a next function.
+4. In the following two arrays find which two elements match
+using iterators.
+Array 1 - [“a”, “b”, “c”, “d”]
+Array 2 - [“e”, “f”, “g”, “h”, “a”, “i”, “j”]
+5. What are the different ways of iterating through an array?
+demonstrate them.
